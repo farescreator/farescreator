@@ -24,4 +24,4 @@ Devenir architecte en sécurité réseau. Je sais qu'il me reste énormément à
 Linux (Debian, Kali), Windows Server, GNS3, Wireshark, Burp Suite, Docker. Python, Bash, PowerShell, C, SQL.
 
 ## Pour me contacter
-Le plus simple, c'est LinkedIn : [lien à ajouter]
+Le plus simple, c'est LinkedIn : www.linkedin.com/in/farès-mahdid-3aaa0b301
