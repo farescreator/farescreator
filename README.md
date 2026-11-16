@@ -3,10 +3,9 @@
 Je suis étudiant en 2ème année de Bachelor Cybersécurité à l'EPITA, au Campus Cyber de La Défense. 
 
 
-## Ce que j'aime particulièrement : le réseau
-Suivre le chemin d'un paquet, comprendre pourquoi une règle de pare-feu bloque quelque chose, imaginer comment cloisonner une infrastructure pour qu'elle tienne le coup. C'est là que je me sens le plus à l'aise.
+## le réseau
 
-C'est pour ça que j'ai lancé mon propre projet cette année : un réseau sécurisé sous GNS3 avec OPNsense. J'ai migré un routeur Linux vers un pare-feu OPNsense, monté une DMZ et une zone d'administration isolée, durci le filtrage, et documenté destests au fur et à mesure (Je suis en train de le finaliser).  Quand quelque chose ne marchait pas, il fallait chercher pourquoi, et c'est comme ça que j'ai le plus appris.
+J'ai lancé mon propre projet cette année : un réseau sécurisé sous GNS3 avec OPNsense. J'ai migré un routeur Linux vers un pare-feu OPNsense, monté une DMZ et une zone d'administration isolée, durci le filtrage, et documenté destests au fur et à mesure (Je suis en train de le finaliser).  Quand quelque chose ne marchait pas, il fallait chercher pourquoi, et c'est comme ça que j'ai le plus appris.
 → [Le dépôt est ici](https://github.com/farescreator/Projet-OPNsense)
 
 ## Mes projets
