@@ -43,7 +43,6 @@ Le plus simple, c'est LinkedIn : www.linkedin.com/in/farès-mahdid-3aaa0b301
 ## Langages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Systèmes et virtualisation
@@ -60,9 +59,7 @@ Le plus simple, c'est LinkedIn : www.linkedin.com/in/farès-mahdid-3aaa0b301
 ![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge)
 ![GNS3](https://img.shields.io/badge/GNS3-0B6EBF?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge)
 
 ## Outils
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
